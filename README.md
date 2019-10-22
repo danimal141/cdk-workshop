@@ -3,6 +3,8 @@
  * `yarn run build`   compile typescript to js
  * `yarn run watch`   watch for changes and compile
  * `yarn run test`    perform the jest unit tests
+
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
+ * `cdk bootstrap`   deploy the CDK toolkit stack into an AWS environment
