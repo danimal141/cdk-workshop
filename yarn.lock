@@ -168,18 +168,7 @@
     "@aws-cdk/aws-kms" "1.13.1"
     "@aws-cdk/core" "1.13.1"
 
-"@aws-cdk/aws-sns-subscriptions@^1.11.0":
-  version "1.13.1"
-  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-sns-subscriptions/-/aws-sns-subscriptions-1.13.1.tgz#87552535d2b978f58a85ec7735787e27170ea943"
-  integrity sha512-J9t1g4ooCGlLXnuzWU15QrWB7/JB/9hSBv1XTdbrZXuknbUpps9eUAI/4NZRve576XSw9FJtbl2VxFvvEbY+jg==
-  dependencies:
-    "@aws-cdk/aws-iam" "1.13.1"
-    "@aws-cdk/aws-lambda" "1.13.1"
-    "@aws-cdk/aws-sns" "1.13.1"
-    "@aws-cdk/aws-sqs" "1.13.1"
-    "@aws-cdk/core" "1.13.1"
-
-"@aws-cdk/aws-sns@1.13.1", "@aws-cdk/aws-sns@^1.11.0":
+"@aws-cdk/aws-sns@1.13.1":
   version "1.13.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-sns/-/aws-sns-1.13.1.tgz#2c46c7d99748cf509b011c423301b81bc0fa94fc"
   integrity sha512-6/WDbiqBlDw088mkDCDmdASAE745tWw9XihwSLLwcLNueLqDx4Wd3qaORTMxwZG2H5Ebia+2mJjENrAbIAzppQ==
@@ -189,7 +178,7 @@
     "@aws-cdk/aws-iam" "1.13.1"
     "@aws-cdk/core" "1.13.1"
 
-"@aws-cdk/aws-sqs@1.13.1", "@aws-cdk/aws-sqs@^1.11.0":
+"@aws-cdk/aws-sqs@1.13.1":
   version "1.13.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-sqs/-/aws-sqs-1.13.1.tgz#769820cf3884f0c2beda21a9bfe4d30e12ad299b"
   integrity sha512-8liCiPJlrbpRzqXeYkI/pMIOSYdHNg3T1LEanEry6Fb8P8zksmybexWZScBtap/4aJY14SAcudAFi+osxjrHgw==
