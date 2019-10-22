@@ -65,7 +65,7 @@
     "@aws-cdk/aws-iam" "1.13.1"
     "@aws-cdk/core" "1.13.1"
 
-"@aws-cdk/aws-lambda@1.13.1":
+"@aws-cdk/aws-lambda@1.13.1", "@aws-cdk/aws-lambda@^1.13.1":
   version "1.13.1"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-lambda/-/aws-lambda-1.13.1.tgz#64b4b690d954d4ccb542124446fbbde37bc8987b"
   integrity sha512-VDQr0Rtfam7moOvT9PdKZwtNkppRnrYuR14hfAwXkvdnjM3D131V1MAtvPIjBwtyPJcHdg+f5MwS6psd4Vm/HA==
